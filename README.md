@@ -16,3 +16,6 @@ This plugin is more limited than the other ones because the API used does not pr
 
 ### Standalone 
 This plugin does not require any other programs to be running to work, however it does require administrator privileges.
+
+
+Edit to force a workflow run
